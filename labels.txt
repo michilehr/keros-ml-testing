@@ -1,0 +1,8 @@
+0 female adult
+1 male adult
+2 female child joy
+3 male child joy
+4 female middle aged
+5 male middle aged
+6 female young
+7 male young

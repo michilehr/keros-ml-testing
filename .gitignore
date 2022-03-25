@@ -1,0 +1,6 @@
+.DS_STORE
+bin/
+lib/
+include/
+pyvenv.cfg
+images/.jpg
